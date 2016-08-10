@@ -1,4 +1,4 @@
-var moment = require('moment');
+var moment = require('moment-jalaali');
 
 module.exports = {
 	install: function (Vue, options) {
