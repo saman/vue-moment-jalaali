@@ -4,9 +4,9 @@ Jalaali [Moment.js](http://www.momentjs.com) filters for your [Vue.js](http://vu
 
 ## Installation
 
-Either install via NPM:
+You can install it via [NPM](https://www.npmjs.com/package/vue-moment-jalaali):
 ```
-npm install vue-moment-jalaali
+npm install vue-moment-jalaali --save
 ```
 And require plugin like so:
 ```js
