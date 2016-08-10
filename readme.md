@@ -26,5 +26,5 @@ Simply set `moment` as the filtering function and you're good to go. At least on
 ```
 
 For more informations, usage and format, you can see these repositories:
-* [vue-moment](https://github.com/brockpetrie/vue-moment)
-* [moment-jalaali](https://github.com/jalaali/moment-jalaali)
+*[vue-moment](https://github.com/brockpetrie/vue-moment)
+*[moment-jalaali](https://github.com/jalaali/moment-jalaali)
