@@ -29,7 +29,7 @@
     "conversion",
     "convert"    
   ],
-  "author": "Saman Soltani",
+  "author": "Saman Soltani <me@samansoltani.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/samansoltani/vue-moment-jalaali/issues"
