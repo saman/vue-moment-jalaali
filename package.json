@@ -1,14 +1,14 @@
 {
-  "name": "vue-moment",
-  "version": "2.0.1",
-  "description": "Handy Moment.js filters for your Vue.js project",
+  "name": "vue-moment-jalaali",
+  "version": "1.0.0",
+  "description": "Jalaali Moment.js filters for your Vue.js project",
   "main": "vue-moment.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brockpetrie/vue-moment.git"
+    "url": "git+https://github.com/samansoltani/vue-moment-jalaali.git"
   },
   "keywords": [
     "vue",
@@ -17,16 +17,26 @@
     "time",
     "filter",
     "moment",
-    "moment.js"
+    "moment.js",
+    "moment-jalaali.js",
+    "jalaali",
+    "jalali",
+    "persian",
+    "khorshidi",
+    "shamsi",
+    "date",
+    "calendar",
+    "conversion",
+    "convert"    
   ],
-  "author": "brockpetrie",
-  "license": "ISC",
+  "author": "Saman Soltani",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brockpetrie/vue-moment/issues"
+    "url": "https://github.com/samansoltani/vue-moment-jalaali/issues"
   },
-  "homepage": "https://github.com/brockpetrie/vue-moment#readme",
+  "homepage": "https://github.com/samansoltani/vue-moment-jalaali#readme",
   "dependencies": {
-    "moment": "^2.11.1"
+    "moment-jalaali": "^0.4.0"
   },
   "peerDependencies": {
     "vue": "^1.x.x"
