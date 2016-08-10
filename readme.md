@@ -1,4 +1,4 @@
-# vue-moment-jalaali
+ # vue-moment-jalaali
 
 Jalaali [Moment.js](http://www.momentjs.com) filters for your [Vue.js](http://vuejs.org/) project. This project is based on [vue-moment] (https://github.com/brockpetrie/vue-moment) and [moment-jalaali] (https://github.com/jalaali/moment-jalaali)
 
@@ -26,5 +26,5 @@ Simply set `moment` as the filtering function and you're good to go. At least on
 ```
 
 For more informations, usage and format, you can see these repositories:
-*[vue-moment](https://github.com/brockpetrie/vue-moment)
-*[moment-jalaali](https://github.com/jalaali/moment-jalaali)
+* [vue-moment](https://github.com/brockpetrie/vue-moment)
+* [moment-jalaali](https://github.com/jalaali/moment-jalaali)
