@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samansoltani/vue-moment-jalaali.git"
+    "url": "git+https://github.com/saman/vue-moment-jalaali.git"
   },
   "keywords": [
     "vue",
@@ -32,9 +32,9 @@
   "author": "Saman Soltani <me@samansoltani.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/samansoltani/vue-moment-jalaali/issues"
+    "url": "https://github.com/saman/vue-moment-jalaali/issues"
   },
-  "homepage": "https://github.com/samansoltani/vue-moment-jalaali#readme",
+  "homepage": "https://github.com/saman/vue-moment-jalaali#readme",
   "dependencies": {
     "moment-jalaali": "^0.4.0"
   },
