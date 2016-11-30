@@ -1,6 +1,6 @@
 {
   "name": "vue-moment-jalaali",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Jalaali Moment.js filters for your Vue.js project",
   "main": "vue-moment.js",
   "scripts": {
@@ -37,8 +37,5 @@
   "homepage": "https://github.com/saman/vue-moment-jalaali#readme",
   "dependencies": {
     "moment-jalaali": "^0.4.0"
-  },
-  "peerDependencies": {
-    "vue": "^1.x.x"
   }
 }

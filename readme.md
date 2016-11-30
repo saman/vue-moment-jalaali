@@ -19,6 +19,14 @@ or load `vue-moment-jalaali.min.js` along with `moment-jalaali.js` the old fashi
 
 Simply set `moment` as the filtering function and you're good to go. At least one argument is expected, which the filter assumes to be a `format` string if the argument doesn't match any of the other filtering methods.
 
+### Vue.js 2.x.x
+```html
+<span>{{ someDate | moment("jYYYY/jM/jD HH:mm") }}</span>
+<!-- or create a new date from 'now' -->
+<span>{{ new Date() | moment("jYYYY/jM/jD HH:mm") }}</span>
+```
+
+### Vue.js 1.x.x
 ```html
 <span>{{ someDate | moment "jYYYY/jM/jD HH:mm" }}</span>
 <!-- or create a new date from 'now' -->
