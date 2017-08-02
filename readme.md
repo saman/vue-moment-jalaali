@@ -1,6 +1,6 @@
  # vue-moment-jalaali
 
-Jalaali [Moment.js](http://www.momentjs.com) filters for your [Vue.js](http://vuejs.org/) project. This project is based on [vue-moment] (https://github.com/brockpetrie/vue-moment) and [moment-jalaali] (https://github.com/jalaali/moment-jalaali).
+Jalaali [Moment.js](http://www.momentjs.com) filters for your [Vue.js](http://vuejs.org/) project. This project is based on [vue-moment](https://github.com/brockpetrie/vue-moment) and [moment-jalaali](https://github.com/jalaali/moment-jalaali).
 
 ## Installation
 
